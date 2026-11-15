@@ -1,6 +1,7 @@
 # Project 5: Brevet time calculator with Ajax and MongoDB
 
 *Author: Josh Gilliam*
+
 *Email: jgilliam@uoregon.edu*
 
 Simple list of control times from project 4 stored in MongoDB database.
